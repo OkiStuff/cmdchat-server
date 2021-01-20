@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'cmdchat-server'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2b2577c8b91644edb4aba0710664af10 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2c42e60012124f58878a30413cacf88a }}
