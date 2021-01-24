@@ -67,5 +67,3 @@ def send(msgContent, usrname):
 def update():
     return redirect(url_for("allMessages"))
 
-            
-app.run()
